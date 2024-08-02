@@ -1,1 +1,1 @@
-#Summer Student Projects at ASIAA 2024
+# SSP Projects at ASIAA 2024
