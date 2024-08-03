@@ -1,4 +1,5 @@
 - ##### I am uploading the example setup and scripts here. Note that Brio-Wu isnt available in the default test cases of pluto
 - ##### When you run the code, you should have a ./out folder in the current ditectory (see the pluto.ini)
 - ##### Remember to turn on the "--with-fd" flag during setup
+- ##### This is a 1D case, so value of DIV_CLEANING doesn't matter much
 - ##### see in the init.c how we define userdef boundary condition to set the boundary as initial condition at X1_BEG and X1_END
