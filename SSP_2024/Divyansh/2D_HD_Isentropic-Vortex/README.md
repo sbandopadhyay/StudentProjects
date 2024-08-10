@@ -1,4 +1,3 @@
-- ##### This is our 2D hydro isentropic vortex test case
+- ##### This is our 2D hydro isentropic vortex test case. Make sure you have "--with-fd" flag on during settup up pluto 
 - ##### Go through the ipython notebook, see how L1 and L2 error norms are being calculated
 - ##### Your homework is given in the notebook
-- ##### Basically, I want you to plot the l1 and l2 norms vs N^(1/2) and compare the accuracy for various schemes
