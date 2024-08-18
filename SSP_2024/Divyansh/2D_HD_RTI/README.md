@@ -1,0 +1,3 @@
+- ##### This is our 2D hydro customized RTI case. As usual make sure you have "--with-fd" flag on during settup up pluto
+- ##### Go through the setup and try to reproduce the results
+- ##### The ipython notebook follows a well explained approach to do data processing
