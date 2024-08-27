@@ -1,1 +1,2 @@
-#### 1D Shu Osher test case. See how we use user-input for gamma and x_cut
+- ##### 1D Shu Osher test case. 
+- ##### See how we use g_inputParam for gamma and x_cut
